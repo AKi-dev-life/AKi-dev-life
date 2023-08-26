@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aki, a software engineer in Japan.
+- 👀 I’m interested in Software design overall.
+- 🌱 I’m currently learning software design, React, API design, and so on.
+- 📫 How to reach me @Aki-dev-life on Twitter.
